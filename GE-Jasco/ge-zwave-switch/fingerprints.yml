@@ -77,6 +77,12 @@ zwaveManufacturer:
     productType: 0x4944
     productId: 0x3132
     deviceProfileName: ge-dimmer-assoc
+  - id: "0063/4944/3138"
+    deviceLabel: GE Dimmer
+    manufacturerId: 0x0063
+    productType: 0x4944
+    productId: 0x3138
+    deviceProfileName: ge-dimmer-assoc
   - id: "0063/4944/3233"
     deviceLabel: GE Dimmer 14289
     manufacturerId: 0x0063
